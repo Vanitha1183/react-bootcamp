@@ -13,7 +13,7 @@ function PatientCard({patient}){
     <p class="card-text"><strong>Doctor Name:</strong>{patient.doctor.name}</p>
     <p class="card-text"><strong>Doctor Specialization:</strong>{patient.doctor.specialization}</p>
 
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    
   </div>
 </div>
     )
