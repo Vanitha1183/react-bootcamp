@@ -1,7 +1,7 @@
 
 function PatientCard({patient}){
     return (
-        <div class="card">
+        <div class="card h-100 shadow-sm">
   
   <div class="card-body">
     <h5 class="card-title">{patient.name}</h5>
